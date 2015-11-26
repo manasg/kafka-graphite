@@ -3,7 +3,7 @@ Kafka Graphite Metrics Reporter
 
 This is a simple reporter for kafka using the 
 [GraphiteReporter](http://metrics.codahale.com/manual/graphite/). It works with 
-kafka 0.8.1.1 version.
+kafka 0.9.0.0 version.
 
 Big thanks to Maxime Brugidou from Criteo who did the initial commit of the Ganglia version,
 available here https://github.com/criteo/kafka-ganglia
